@@ -1,4 +1,4 @@
-cd SAM-6D
+```cd SAM-6D```
 
 ##### 1. Download SAM (Base version, same as your laptop)
 ```mkdir -p Instance_Segmentation_Model/checkpoints/segment-anything``` \
