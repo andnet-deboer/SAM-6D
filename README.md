@@ -25,5 +25,5 @@ docker run --gpus all -it \
 ```export OUTPUT_DIR=$(pwd)/Data/Example/outputs```
 
 ##### Run
-```chmod +x demo.sh```
+```chmod +x demo.sh```\
 ```./demo.sh```
