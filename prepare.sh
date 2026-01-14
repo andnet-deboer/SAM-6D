@@ -2,6 +2,8 @@
 conda env create -f environment.yaml
 conda activate sam6d
 
+pip install blenderproc
+
 ### Install pointnet2
 cd Pose_Estimation_Model/model/pointnet2
 python setup.py install
