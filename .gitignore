@@ -2,3 +2,4 @@ checkpoints/
 Data/
 __pycache__/
 *.pth
+Instance_Segmentation_Model/checkpoints/
