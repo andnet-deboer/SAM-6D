@@ -1,6 +1,6 @@
 ```cd SAM-6D```
 
-##### 1. Download SAM (Base version, same as your laptop)
+##### 1. Download SAM
 ```mkdir -p Instance_Segmentation_Model/checkpoints/segment-anything``` \
 ```wget -P Instance_Segmentation_Model/checkpoints/segment-anything/ https://dl.fbaipublicfiles.com/segment_anything/sam_vit_b_01ec64.pth```
 
